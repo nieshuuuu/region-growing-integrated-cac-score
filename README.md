@@ -1,1 +1,1 @@
-# region-growing-integrated-cac-score
+# Region growing method + integrated calcium scoring
